@@ -5,6 +5,8 @@ Bu depo, Murat Yücedağ'ın Udemy kursu kapsamında geliştirdiğim 20 farklı 
 # 🚀 Adonet Müşteri Projesi :
 Bu proje, SQL veri tabanıyla bağlantı kurarak müşteri, şehir ve istatistik gibi bilgilerin dinamik olarak yönetilebildiği bir mini uygulamadır. Uygulama, kullanıcı dostu arayüzü ve güçlü veri işleme özellikleriyle, temel veritabanı işlemlerini kolayca gerçekleştirmek için tasarlanmıştır. 💻✨  
 
+🌍 [Kaynak Kodlar](https://github.com/berkankarayel/MyProjects/tree/master/1-AdonetCustomerProject)
+
 ## 🔧 Kullanılan Teknolojiler  
 - **C#**: Uygulama geliştirme için temel programlama dili  
 - **ADO.NET**: Veritabanı bağlantı ve işlem yönetimi  
