@@ -10,7 +10,7 @@ Bu proje, SQL veri tabanıyla bağlantı kurarak müşteri, şehir ve istatistik
 - **ADO.NET**: Veritabanı bağlantı ve işlem yönetimi  
 - **SQL Server**: Verilerin depolanması ve yönetimi  
 - **Windows Forms**: Uygulama arayüzünün oluşturulması
-- 
+ 
 - ## 📸 Ekran Görüntüleri  
 Aşağıda uygulamaya ait bazı ekran görüntüleri yer almaktadır:  
 
